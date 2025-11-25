@@ -22,13 +22,13 @@ SOFTWARE.
 
 ---
 
-## Academic Use Notice
+ Academic Use Notice
 
 This software was developed as a capstone project for educational purposes.
 While it implements industry-standard security practices, it should undergo
 a professional security audit before production use with sensitive data.
 
-## Third-Party Licenses
+ Third-Party Licenses
 
 This project uses the following open-source libraries:
 - Next.js (MIT)
