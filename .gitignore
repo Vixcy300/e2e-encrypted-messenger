@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+.vercel/
+dist/
+build/
+out/
+
+# Environment files (contain sensitive data)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Security
+*.pem
+*.key
+
+# Testing
+coverage/
+.cache/
+.turbo/
+
+# User data (clear before committing)
+server/users.json
+
+# Misc
+*.bak
+*.tmp
